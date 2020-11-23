@@ -6,61 +6,57 @@
     "PatientLastName": "Reddy",
     "PatientMiddleInitial": "M",
     "PatientDOB": "04/24/1995",
-    "PatientGender": "Male"
+    "PatientGender": "Male",
+    "TestResultRapid": "Negative",
+    "TestResultPCR": "N/A"
   },
+  
   {
-    "PatientId": 0002,
+    "PatientId": 0002
     "PatientDepartment": "General",
     "PatientFirstName": "Sujeet",
     "PatientLastName": "Reddy",
     "PatientMiddleInitial": "M",
     "PatientDOB": "04/24/1995",
-    "PatientGender": "Male"
+    "PatientGender": "Male",
+    "TestResultRapid": "Positive",
+    "TestResultPCR": "Positive"
   },
+  
   {
-    "PatientId": 0003,
+    "PatientId": 0003
     "PatientDepartment": "General",
     "PatientFirstName": "Sujeet",
     "PatientLastName": "Reddy",
     "PatientMiddleInitial": "M",
     "PatientDOB": "04/24/1995",
-    "PatientGender": "Male"
+    "PatientGender": "Male",
+    "TestResultRapid": "Negative",
+    "TestResultPCR": "N/A"
   },
+  
   {
-    "PatientId": 0004,
+    "PatientId": 0004
     "PatientDepartment": "General",
     "PatientFirstName": "Sujeet",
     "PatientLastName": "Reddy",
     "PatientMiddleInitial": "M",
     "PatientDOB": "04/24/1995",
-    "PatientGender": "Male"
+    "PatientGender": "Male",
+    "TestResultRapid": "Positive",
+    "TestResultPCR": "Negative"
   },
+  
   {
-    "PatientId": 0005,
+    "PatientId": 0005
     "PatientDepartment": "General",
     "PatientFirstName": "Sujeet",
     "PatientLastName": "Reddy",
     "PatientMiddleInitial": "M",
     "PatientDOB": "04/24/1995",
-    "PatientGender": "Male"
-  },
-  {
-    "PatientId": 0006,
-    "PatientDepartment": "General",
-    "PatientFirstName": "Sujeet",
-    "PatientLastName": "Reddy",
-    "PatientMiddleInitial": "M",
-    "PatientDOB": "04/24/1995",
-    "PatientGender": "Male"
-  },
-  {
-    "PatientId": 0007,
-    "PatientDepartment": "General",
-    "PatientFirstName": "Sujeet",
-    "PatientLastName": "Reddy",
-    "PatientMiddleInitial": "M",
-    "PatientDOB": "04/24/1995",
-    "PatientGender": "Male"
+    "PatientGender": "Male",
+    "TestResultRapid": "Negative",
+    "TestResultPCR": "N/A"
   }
 ]
 
