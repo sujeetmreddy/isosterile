@@ -1,6 +1,6 @@
 [
   {
-    "PatientId": 1,
+    "Id": 1,
     "PatientDepartment": "General",
     "PatientFirstName": "Sujeet",
     "PatientLastName": "Reddy",
@@ -12,7 +12,7 @@
   },
 
   {
-    "PatientId": 2,
+    "Id": 2,
     "PatientDepartment": "General",
     "PatientFirstName": "Sujeet",
     "PatientLastName": "Reddy",
@@ -24,7 +24,7 @@
   },
 
   {
-    "PatientId": 3,
+    "Id": 3,
     "PatientDepartment": "General",
     "PatientFirstName": "Sujeet",
     "PatientLastName": "Reddy",
@@ -36,7 +36,7 @@
   },
 
   {
-    "PatientId": 4,
+    "Id": 4,
     "PatientDepartment": "General",
     "PatientFirstName": "Sujeet",
     "PatientLastName": "Reddy",
@@ -48,7 +48,7 @@
   },
 
   {
-    "PatientId": 5,
+    "Id": 5,
     "PatientDepartment": "General",
     "PatientFirstName": "Sujeet",
     "PatientLastName": "Reddy",
