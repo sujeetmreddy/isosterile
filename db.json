@@ -1,1 +1,66 @@
+[
+  {
+    "PatientId": 0001,
+    "PatientDepartment": "General",
+    "PatientFirstName": "Sujeet",
+    "PatientLastName": "Reddy",
+    "PatientMiddleInitial": "M",
+    "PatientDOB": "04/24/1995",
+    "PatientGender": "Male"
+  },
+  {
+    "PatientId": 0002,
+    "PatientDepartment": "General",
+    "PatientFirstName": "Sujeet",
+    "PatientLastName": "Reddy",
+    "PatientMiddleInitial": "M",
+    "PatientDOB": "04/24/1995",
+    "PatientGender": "Male"
+  },
+  {
+    "PatientId": 0003,
+    "PatientDepartment": "General",
+    "PatientFirstName": "Sujeet",
+    "PatientLastName": "Reddy",
+    "PatientMiddleInitial": "M",
+    "PatientDOB": "04/24/1995",
+    "PatientGender": "Male"
+  },
+  {
+    "PatientId": 0004,
+    "PatientDepartment": "General",
+    "PatientFirstName": "Sujeet",
+    "PatientLastName": "Reddy",
+    "PatientMiddleInitial": "M",
+    "PatientDOB": "04/24/1995",
+    "PatientGender": "Male"
+  },
+  {
+    "PatientId": 0005,
+    "PatientDepartment": "General",
+    "PatientFirstName": "Sujeet",
+    "PatientLastName": "Reddy",
+    "PatientMiddleInitial": "M",
+    "PatientDOB": "04/24/1995",
+    "PatientGender": "Male"
+  },
+  {
+    "PatientId": 0006,
+    "PatientDepartment": "General",
+    "PatientFirstName": "Sujeet",
+    "PatientLastName": "Reddy",
+    "PatientMiddleInitial": "M",
+    "PatientDOB": "04/24/1995",
+    "PatientGender": "Male"
+  },
+  {
+    "PatientId": 0007,
+    "PatientDepartment": "General",
+    "PatientFirstName": "Sujeet",
+    "PatientLastName": "Reddy",
+    "PatientMiddleInitial": "M",
+    "PatientDOB": "04/24/1995",
+    "PatientGender": "Male"
+  }
+]
 
